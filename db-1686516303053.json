@@ -1,0 +1,11 @@
+{
+  "filmes": {
+    "filme": {
+      "id": 1,
+      "titulo": "Ano um",
+      "lançamento": "2023",
+      "roteiro": "Fulano da Silva",
+      "imagem": "foto.jpg"
+    }
+  }
+}

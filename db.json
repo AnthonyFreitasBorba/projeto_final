@@ -1,0 +1,26 @@
+{
+  "devices": {
+    "id": "3C:71:BF:F1:E8:24",
+    "device": "DOIT ESP32 DEV KIT V1",
+    "outputPinState": {
+      "D2": "HIGH",
+      "D4": "LOW",
+      "D5": "LOW",
+      "D18": "HIGH",
+      "D19": "LOW",
+      "D21": "LOW",
+      "D22": "LOW",
+      "D23": "LOW",
+      "D13": "LOW",
+      "D12": "LOW",
+      "D14": "LOW",
+      "D27": "LOW",
+      "D26": "LOW",
+      "D25": "LOW",
+      "D33": "LOW",
+      "D32": "LOW",
+      "D35": "LOW",
+      "D34": "LOW"
+    }
+  }
+}

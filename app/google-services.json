@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "966130735189",
+    "project_id": "projeto-final-7b020",
+    "storage_bucket": "projeto-final-7b020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966130735189:android:9dcc795375bfb8904c5cdc",
+        "android_client_info": {
+          "package_name": "br.com.uniritter.projeto_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966130735189-93se92484222rnq53stc7ingfk237mq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.uniritter.projeto_final",
+            "certificate_hash": "f88eae00ba1c42666b4221c8195ec90766c3d64d"
+          }
+        },
+        {
+          "client_id": "966130735189-3dvdeq5mj250aqo68k29f8oirt94qakq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqvtcvkppOs9Kb_cr7wNQ-ynSjeHiuttQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966130735189-3dvdeq5mj250aqo68k29f8oirt94qakq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
